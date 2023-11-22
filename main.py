@@ -1,3 +1,7 @@
+# 这是一个帮助叶思珩同学完成excel中自动计算问题的程序
+# 输入和输出都为一个excel表格
+# 程序会自动读取excel表中的数据，然后将计算结果存放在result.xlsx中
+
 import pandas as pd
 
 # 导入excel文件
